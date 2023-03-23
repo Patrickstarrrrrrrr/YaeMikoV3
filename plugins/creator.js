@@ -14,18 +14,18 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 • Owner menerima save contact
 • Owner berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
-• Owner Hanya merespon yang berkaitan dengan BOT
+• Owner tidak terima tutor run
 • No Telp`
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-*ɴᴀᴍᴇ:* Okta
-*ᴀɢᴇ:* 16ᵗʰ
-*ᴄᴇᴡᴇᴋ:* Chaca
+*ɴᴀᴍᴇ:* Dian
+*ᴀɢᴇ:* 19ᵗʰ
+*ᴄᴇᴡᴇᴋ:* Yan
 
-*ʙɪʀᴛʜᴅᴀʏ:* 31
-*ᴀᴅᴅʀᴇss:* Indonesia, Jatim
+*ʙɪʀᴛʜᴅᴀʏ:* 7
+*ᴀᴅᴅʀᴇss:* Indonesia, Sumut
 
 *- - sᴋɪʟʟs: - -* 
 > JavaScript [77.7%]
