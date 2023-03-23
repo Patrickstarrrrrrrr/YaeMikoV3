@@ -1,5 +1,5 @@
-// MADE BY BOCHILGAMING
-// RECODE BY KANNACHANN
+// MADE BY YAN
+// RECODE BY DIAN
 
 import { promises } from 'fs'
 import { join } from 'path'
