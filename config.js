@@ -1,5 +1,5 @@
 // S C R I P T  O R I  B Y  @BochilGaming 🔭
-// M A D E  B Y  Letta - Sama 🐰  
+// M A D E  B Y  Yan 
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
@@ -45,31 +45,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/OktaModz'
-global.sgh = 'https://github.com/ChataOfc'
-global.sgc = 'https://chat.whatsapp.com/JVQ60oSsvJ1CtscEwmtXzk'
+global.sig = 'https://www.instagram.com/Wajahlesu'
+global.sgh = 'https://github.com/Patrickstarrrrrrrr'
+global.sgc = 'https://chat.whatsapp.com/EyYi7h3RoWTEyaX1lvrZK1'
 global.sdc = " "
 global.snh = 'https://nhentai.net/g/365296/'
 //mwehehe:v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085731947500'
+global.pdana = '081536907492'
 global.povo = '-'
-global.pgopay = '085731947500'
-global.ppulsa = '085731947500'
-global.ppulsa2 = '085749543572'
+global.pgopay = '081536907492'
+global.ppulsa = '081536907492'
+global.ppulsa2 = '081536907492'
 global.psaweria = 'https://saweria.co.id/oktakc'
 global.fetch = (await import('node-fetch'))
 /*============== NOMOR ==============*/
-global.nomorbot = '6285749543572'
-global.nomorown = '6285731947500'
+global.nomorbot = '6289668964013'
+global.nomorown = '6281536907492'
 global.namebot = 'YaeMiko'
-global.nameown = 'Okta'
+global.nameown = 'Dian'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285731947500', 'Okta🗿!', true]
+  ['6281536907492', 'Dian!', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
